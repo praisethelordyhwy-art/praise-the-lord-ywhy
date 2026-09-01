@@ -1,0 +1,17 @@
+{
+  "name": "PRAISE THE LORD YWHY",
+  "short_name": "PRAISE YWHY",
+  "description": "Application chrétienne dédiée à la Parole de Dieu, à la prière, aux prédications et aux témoignages.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0b1220",
+  "lang": "fr",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
